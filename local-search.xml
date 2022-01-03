@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello My Blog</title>
+    <link href="/2022/01/04/Hello-My-Blog/"/>
+    <url>/2022/01/04/Hello-My-Blog/</url>
+    
+    <content type="html"><![CDATA[<h1 id="第一篇笔记发布"><a href="#第一篇笔记发布" class="headerlink" title="第一篇笔记发布"></a><strong>第一篇笔记发布</strong></h1><p>通过Hexo建立的第一个Blog，用于记录学习心得，后续主要归类为<ul><li><strong>C#基础</strong></li><li><strong>数据结构</strong></li><li><strong>网络通讯</strong></li><li><strong>数据库</strong></li><li><strong>WPF</strong></li><li><strong>设计模式</strong></li></ul></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>首发</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
